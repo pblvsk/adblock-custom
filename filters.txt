@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: Filters by Pablo
+! Collaborators: pblvsk
+! Homepage: https://pawelgrzes.pl/
+! Last modified: 8 June 2017
+! Expires: 2 days
+! Version: 20170608
+! Support: https://github.com/pblvsk/adblock-custom/issues
+! Copyright (C) 2017 Pawel Grzes
+!
+!-----------------------General advert blocking filters-----------------------!
+wikipedia.org##div#frb-inline
