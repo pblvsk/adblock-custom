@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filters by Pawel Grzes
-! Collaborators: pwlfgrzs
+! Collaborators: pwlgrzs
 ! Homepage: https://pawelgrzes.pl/
 ! Last modified: 8 June 2017
 ! Expires: 2 days
